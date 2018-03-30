@@ -1,0 +1,14 @@
+{
+    "name": "is-odd-service",
+    "version": "1.0.0",
+    "description": "Is odd on Docker",
+    "author": "Stas Arsoba <stanislav.arsoba@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1",
+      "is-odd": "^0.1.2"
+    }
+  }
